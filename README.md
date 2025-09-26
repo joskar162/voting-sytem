@@ -61,14 +61,7 @@ Configure the DB connection:
 
 Open config.php or includes/db.php and set your database name, username, and password.
 
-Run the project:
 
-Go to your browser and open:
-
-perl
-Copy
-Edit
-http://localhost/voting-system/
 
 🙋‍♂️ Author
 Joshua Karani
